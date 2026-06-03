@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Het Barasara 👋
+### B.Tech IT Student | Passionate Full-Stack Developer 💻
 
-<!--
-**hetbarasara-maker/hetbarasara-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=[Aapka-GitHub-Username]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Currently pursuing **B.Tech in Information Technology**.
+- 💡 I love building scalable web applications and solving real-world problems.
+- 🌱 Learning more about **System Design** and **Cloud Computing** (AWS/DevOps).
+- ✍️ I occasionally write tech blogs or participate in hackathons.
+
+---
